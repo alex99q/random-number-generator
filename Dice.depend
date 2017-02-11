@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448646780 source:d:\programirane\dice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
